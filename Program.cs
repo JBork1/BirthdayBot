@@ -51,3 +51,4 @@ class Program {
         Environment.Exit(Environment.ExitCode);
     }
 }
+pkill 1
